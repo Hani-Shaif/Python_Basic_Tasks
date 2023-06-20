@@ -1,6 +1,6 @@
 #=====================================
 #=======Python_Basic_examples=========
-#====== Python  If Condition =========
+#========== Python  If Loop ==========
 #=====================================
 
 print(" 1. Print numbers from 0 to 10 using while")
